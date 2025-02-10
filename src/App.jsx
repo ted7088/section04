@@ -4,7 +4,7 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 
 function App() {
-  //리엑트 컴포넌트 개념
+  //리엑트 컴포넌트
   const [count, setCount] = useState(0);
 
   return (
